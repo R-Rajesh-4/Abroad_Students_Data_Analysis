@@ -5,13 +5,10 @@ This project aims to analyze data related to students studying abroad, focusing 
 
 ## Objectives
 The main objectives of this analysis are to:
-1. Understand the demographics of students studying abroad (including age, nationality, gender).
+1. Understand the demographics of students studying abroad.
 2. Analyze the preferred destinations and courses for international students.
 3. Assess the impact of studying abroad on student career paths.
 4. Identify common challenges faced by students abroad.
-
-## Data Source
-The dataset for this analysis is sourced from [Data Source Link or Reference]. It comprises information on student demographics, destination countries, chosen fields of study, academic performance, and post-graduation outcomes.
 
 ## Tools and Technologies
 - Python for data analysis.
@@ -41,6 +38,6 @@ Provide clear instructions on how to set up and run your project, including:
 Specify the license under which this project is released, such as MIT License or GPL-3.0.
 
 ## Acknowledgements
-Give credit to anyone who contributed to the project or to any organization that provided data or resources.
+Mention any contributors, data providers, or anyone who helped in the project.
 
 ## By: Rajesh R
